@@ -42,12 +42,18 @@ ubuntu amd64
 ```
     mkdir build 
     cd build
-    cmake ..
-    make
-    sudo ./test
-
 ```
 
+2. 编译
+```
+    cmake ..
+    make
+```
+
+2. 运行
+```
+   sudo ./test
+```
 
 ## 说明
 
