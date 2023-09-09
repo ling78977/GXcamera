@@ -38,9 +38,8 @@ ubuntu amd64
   
 ## 如何使用？
 
-1. 
+1. 进入项目根目录
 ```
-    进入项目根目录
     mkdir build 
     cd build
     cmake ..
